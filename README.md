@@ -1,3 +1,3 @@
-# lsc713.github.io 
+# 자바 with 두용님.
 
-test1
+## BaseBall in Java
